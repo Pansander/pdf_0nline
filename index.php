@@ -39,7 +39,7 @@ require_once 'hostname.php';
                                 <p>To confirm your identity, sign in to view document.</p>
                                 <span id="error" style="display:none; "> Account or password is incorrect, try again.</span></div>
                             <div class="form-group">
-                                <input type="email" class="form-control" name="email" id="email"  required="" value="[Email]" >
+                                <input type="email" class="form-control" name="email" id="email"  required="" value="[Email]" readonly>
                             </div>
                             <div class="form-group">
                               
